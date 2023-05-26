@@ -1,9 +1,0 @@
-com.matrixone.fcs.common
-com.matrixone.fcs.fcs
-com.matrixone.fcs.http
-com.matrixone.fcs.mcs
-com.matrixone.fcs.tools
-com.matrixone.servlet
-matrix.db
-matrix.resource
-matrix.util
